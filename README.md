@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
-  <li> Roll Number: </li>
-  <li> Branch: </li>
+  <li> Name:  DAMODARA LAKSHMI MADHULIKA</li>
+  <li> Roll Number:  160124737144</li>
+  <li> Branch:  IT-03</li>
 </ul>
 </details>
 <details>
